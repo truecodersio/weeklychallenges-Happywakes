@@ -1,13 +1,17 @@
 ﻿<Properties StartupConfiguration="{5D8F9EC8-A726-4E18-B4B5-C64B4DCDE247}|Default">
   <MonoDevelop.Ide.ItemProperties.ChallengesWithTestsMark8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChallengesWithTestsMark8.Tests/ChallengesSet03Tests.cs">
+    <Files>
+      <File FileName="ChallengesWithTestsMark8/ChallengesSet03.cs" Line="100" Column="30" />
+      <File FileName="ChallengesWithTestsMark8.Tests/ChallengesSet03Tests.cs" Line="218" Column="20" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ChallengesWithTestsMark8" expanded="True">
             <Node name="ChallengesWithTestsMark8" expanded="True" />
             <Node name="ChallengesWithTestsMark8.Tests" expanded="True">
-              <Node name="ChallengesSet02Tests.cs" selected="True" />
+              <Node name="ChallengesSet03Tests.cs" selected="True" />
             </Node>
           </Node>
         </State>
@@ -18,8 +22,9 @@
             <Node name="ChallengesWithTestsMark8.Tests" expanded="True">
               <Node name="ChallengesWithTestsMark8" expanded="True">
                 <Node name="Tests" expanded="True">
-                  <Node name="ChallengesSet02Tests" selected="True" />
-                  <Node name="ChallengesSet03Tests" expanded="True" />
+                  <Node name="ChallengesSet03Tests" expanded="True">
+                    <Node name="ChangeAllElementsToUppercase(values: [&quot;ab1&quot;, &quot;de!&quot;], expected: [&quot;AB1&quot;, &quot;DE!&quot;])" selected="True" />
+                  </Node>
                 </Node>
               </Node>
             </Node>
