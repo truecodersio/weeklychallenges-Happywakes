@@ -1,34 +1,25 @@
 ﻿<Properties StartupConfiguration="{5D8F9EC8-A726-4E18-B4B5-C64B4DCDE247}|Default">
   <MonoDevelop.Ide.ItemProperties.ChallengesWithTestsMark8 PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ChallengesWithTestsMark8.Tests/ChallengesSet03Tests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ChallengesWithTestsMark8/ChallengesSet04.cs">
     <Files>
-      <File FileName="ChallengesWithTestsMark8/ChallengesSet03.cs" Line="100" Column="30" />
-      <File FileName="ChallengesWithTestsMark8.Tests/ChallengesSet03Tests.cs" Line="218" Column="20" />
+      <File FileName="ChallengesWithTestsMark8/Business.cs" Line="6" Column="28" />
+      <File FileName="ChallengesWithTestsMark8/ChallengesSet06.cs" />
+      <File FileName="ChallengesWithTestsMark8/ChallengesSet04.cs" Line="113" Column="25" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ChallengesWithTestsMark8" expanded="True">
-            <Node name="ChallengesWithTestsMark8" expanded="True" />
-            <Node name="ChallengesWithTestsMark8.Tests" expanded="True">
-              <Node name="ChallengesSet03Tests.cs" selected="True" />
+            <Node name="ChallengesWithTestsMark8" expanded="True">
+              <Node name="ChallengesSet04.cs" selected="True" />
             </Node>
+            <Node name="ChallengesWithTestsMark8.Tests" expanded="True" />
           </Node>
         </State>
       </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
-          <Node name="ChallengesWithTestsMark8" expanded="True">
-            <Node name="ChallengesWithTestsMark8.Tests" expanded="True">
-              <Node name="ChallengesWithTestsMark8" expanded="True">
-                <Node name="Tests" expanded="True">
-                  <Node name="ChallengesSet03Tests" expanded="True">
-                    <Node name="ChangeAllElementsToUppercase(values: [&quot;ab1&quot;, &quot;de!&quot;], expected: [&quot;AB1&quot;, &quot;DE!&quot;])" selected="True" />
-                  </Node>
-                </Node>
-              </Node>
-            </Node>
-          </Node>
+          <Node name="ChallengesWithTestsMark8" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
