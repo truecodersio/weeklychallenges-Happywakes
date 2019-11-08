@@ -173,6 +173,14 @@ namespace ChallengesWithTestsMark8
             
             return number * Factorial(number - 1);
 
+            /* in class solution
+             var fact = 1;
+             for(int i = number; i > 0; i--)
+             {
+              fact*= i;
+             }
+             return fact;*/ 
+
         }
     }
 }
